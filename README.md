@@ -16,8 +16,7 @@
 
 ## 🌐 دموی زنده
 
-نمونه آنلاین:  
-`https://[username].github.io/[repo-name]/`
+**[https://intellsoft.github.io/hikvision-pdp18-detector/](https://intellsoft.github.io/hikvision-pdp18-detector/)**
 
 وب‌سایت سازنده:  
 **[http://intellsoft.ir](http://intellsoft.ir)**
